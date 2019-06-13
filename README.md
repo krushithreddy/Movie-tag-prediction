@@ -10,7 +10,11 @@ Research paper : http://ritual.uh.edu/mpst-2018/ (http://ritual.uh.edu/mpst-2018
 
 ## 1.2 Business Constraints:
 
-Predict as many tags as possible with high precision and recall. 2. Incorrect tags could impact customer experience. 3. No strict latency constraints.
+1. Predict as many tags as possible with high precision and recall. 
+
+2. Incorrect tags could impact customer experience. 
+
+3. No strict latency constraints.
 
 ## Machine Learning Problem: 
 Contains all the IMDB id, title, plot synopsis, tags for the movies. 
